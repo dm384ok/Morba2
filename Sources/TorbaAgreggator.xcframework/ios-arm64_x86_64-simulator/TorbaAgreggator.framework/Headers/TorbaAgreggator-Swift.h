@@ -308,6 +308,7 @@ SWIFT_CLASS_NAMED("Torba")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
+
 #endif
 #if __has_attribute(external_source_symbol)
 # pragma clang attribute pop
@@ -625,6 +626,7 @@ SWIFT_CLASS_NAMED("Torba")
 + (void)startik;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
+
 
 #endif
 #if __has_attribute(external_source_symbol)

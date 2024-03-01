@@ -1,9 +1,9 @@
-## Deliver Integration
-Deliver - tools for analytics and tracking .
+## MorbaSDK Integration
+MorbaSDK - tools for analytics and tracking .
 If you want to use our tool in your project, contact us.
 
 ## Dependency 
-Add SDK swift package dependencies to project: [https://github.com/dm384ok/Deliver](https://github.com/dm384ok/Deliver)
+Add SDK swift package dependencies to project: [https://github.com/dm384ok/Morba2](https://github.com/dm384ok/Morba2)
 
 ## Info.plist setup
 After dependency is continue processing, go to INFO tab, and setup some necessary fields:
@@ -22,9 +22,7 @@ After dependency is continue processing, go to INFO tab, and setup some necessar
 
 > NSPhotoLibraryUsageDescription : The game use images to setup user profile and problem solving, we do not store your personal avatart.
 
-> PlatformKey : ***Paste here key value***
-
-![Imgur](https://i.imgur.com/Cp7V6n1.png)
+> MorbaKey : ***Paste here key value***
 
 #### Next step is enable **Push Notification** on Capability editor:
 

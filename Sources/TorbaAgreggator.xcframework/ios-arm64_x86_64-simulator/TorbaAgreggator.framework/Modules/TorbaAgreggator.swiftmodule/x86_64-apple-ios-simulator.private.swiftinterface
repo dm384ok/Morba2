@@ -8,6 +8,7 @@ import AppTrackingTransparency
 import AppsFlyerLib
 import ConfigCat
 import CoreAudioTypes
+import CoreTelephony
 import Disk
 import FBSDKCoreKit
 import FirebaseAnalytics
