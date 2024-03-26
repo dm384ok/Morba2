@@ -3,7 +3,10 @@ MorbaSDK - tools for analytics and tracking .
 If you want to use our tool in your project, contact us.
 
 ## Dependency 
-Add SDK swift package dependencies to project: [https://github.com/dm384ok/Morba2](https://github.com/dm384ok/Morba2)
+Add SDK swift package dependencies to project: [https://github.com/dm384ok/Morba2](https://github.com/dm384ok/Morba2) and select branch **noatt**
+
+NOTE! Very important step, you need branch **noatt**.
+
 
 ## Info.plist setup
 After dependency is continue processing, go to INFO tab, and setup some necessary fields:
@@ -13,8 +16,6 @@ After dependency is continue processing, go to INFO tab, and setup some necessar
 > ITSAppUsesNonExemptEncryption  :  NO
 
 > NSAdvertisingAttributionReportEndpoint : https://appsflyer-skadnetwork.com/
-
-> NSUserTrackingUsageDescription : Select "Allow" for better experience. This identifier will be used to  order to functionalities and user engagement.
 
 > NSLocationWhenInUseUsageDescription : Select "Allow" for better experience. Your location will be used to order to user engagement.
 
