@@ -7,11 +7,10 @@ Add SDK swift package dependencies to project: [https://github.com/dm384ok/Morba
 
 NOTE! Very important step, you need branch **noatt**.
 
+![enter image description here](https://imgur.com/gNQfhdw.png)
 
 ## Info.plist setup
 After dependency is continue processing, go to INFO tab, and setup some necessary fields:
-
-![enter image description here](https://imgur.com/gNQfhdw.png)
 
 
 (**PlatformKey** is configuration key, it very important step, so you need ask your manager about it, and add ***PlatformKey*** to your info plist.)
