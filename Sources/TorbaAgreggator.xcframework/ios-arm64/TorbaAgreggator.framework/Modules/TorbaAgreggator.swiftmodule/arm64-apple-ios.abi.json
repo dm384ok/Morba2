@@ -453,14 +453,14 @@
     {
       "filePath": "\/Users\/builder\/clone\/Torba.swift",
       "kind": "BooleanLiteral",
-      "offset": 7468,
+      "offset": 7466,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/builder\/clone\/Torba.swift",
       "kind": "StringLiteral",
-      "offset": 20083,
+      "offset": 20081,
       "length": 10,
       "value": "\"TorbaAgreggator.APPSFWraps\""
     }

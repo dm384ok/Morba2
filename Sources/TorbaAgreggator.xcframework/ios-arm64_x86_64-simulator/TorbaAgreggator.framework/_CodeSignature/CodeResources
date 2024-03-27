@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/TorbaAgreggator.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		fcWRnrXwsW6WIJOIK6OfxCByhYQ=
+		nacNtGmnvWEWK71vXQ5AwgQ2HPQ=
 		</data>
 		<key>Modules/TorbaAgreggator.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/TorbaAgreggator.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		fcWRnrXwsW6WIJOIK6OfxCByhYQ=
+		nacNtGmnvWEWK71vXQ5AwgQ2HPQ=
 		</data>
 		<key>Modules/TorbaAgreggator.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -81,7 +81,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rVlgNkzIfj5m8qRJBbBfQPeq2UXPI+qzGis+5UXYveM=
+			3lNs6ENvb1zMMHUT8XcaZB+uuK+TeiA3Vp6nixM9qu4=
 			</data>
 		</dict>
 		<key>Modules/TorbaAgreggator.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -116,7 +116,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rVlgNkzIfj5m8qRJBbBfQPeq2UXPI+qzGis+5UXYveM=
+			3lNs6ENvb1zMMHUT8XcaZB+uuK+TeiA3Vp6nixM9qu4=
 			</data>
 		</dict>
 		<key>Modules/TorbaAgreggator.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
