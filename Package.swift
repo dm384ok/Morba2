@@ -19,7 +19,7 @@ let package = Package(
         .package(
             url: "https://github.com/AppsFlyerSDK/AppsFlyerFramework.git", from: "6.9.0"),
         .package(
-            url: "https://github.com/facebook/facebook-ios-sdk.git", branch: "main"),
+            url: "https://github.com/facebook/facebook-ios-sdk.git", exact: "16.3.1"),
         .package(
             url: "https://github.com/OneSignal/OneSignal-iOS-SDK",  branch: "main"),
     ],
