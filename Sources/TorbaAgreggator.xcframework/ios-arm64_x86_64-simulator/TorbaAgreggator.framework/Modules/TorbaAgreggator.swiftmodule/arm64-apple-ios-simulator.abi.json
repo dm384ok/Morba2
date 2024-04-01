@@ -460,14 +460,28 @@
     {
       "filePath": "\/Users\/builder\/clone\/Torba.swift",
       "kind": "BooleanLiteral",
-      "offset": 7804,
+      "offset": 7699,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/builder\/clone\/Torba.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11473,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Torba.swift",
       "kind": "StringLiteral",
-      "offset": 20693,
+      "offset": 11434,
+      "length": 16,
+      "value": "\"ReviewIsShowed\""
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Torba.swift",
+      "kind": "StringLiteral",
+      "offset": 19067,
       "length": 10,
       "value": "\"TorbaAgreggator.APPSFWraps\""
     }
