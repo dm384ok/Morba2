@@ -14,11 +14,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		zoiXn9eFbwP9kx01OKCbtZv+Lmc=
+		cNxqXesYlQDJdJ6hAo+WZz6MbQQ=
 		</data>
 		<key>Modules/TorbaAgreggator.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		nacNtGmnvWEWK71vXQ5AwgQ2HPQ=
+		AQKe+mhzbqHusYH96u7WMK8cKp0=
 		</data>
 		<key>Modules/TorbaAgreggator.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/TorbaAgreggator.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Oj6CO8UiMbM70BtD8R9dNHR8LmA=
+		3igRrQ7SZLmyShpam/LCveuQpL8=
 		</data>
 		<key>Modules/TorbaAgreggator.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		nacNtGmnvWEWK71vXQ5AwgQ2HPQ=
+		AQKe+mhzbqHusYH96u7WMK8cKp0=
 		</data>
 		<key>Modules/TorbaAgreggator.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/TorbaAgreggator.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		RRaX/adAjl7YjPoPTZWB+gp09Qo=
+		lmoLnARAvCzP6zQaaMG6QaWzs4s=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,7 +81,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3lNs6ENvb1zMMHUT8XcaZB+uuK+TeiA3Vp6nixM9qu4=
+			E7P91aDd80q7+rUQoKICg2ryKz+UnWeeV7sBz+KbyNs=
 			</data>
 		</dict>
 		<key>Modules/TorbaAgreggator.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -109,14 +109,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1xxCBpEVgyEADcMXRzkAPsOXnbStaN9+x5bk1QAh/ro=
+			cFMK2usN0allJ5ioYLd9uugfPRu7sQoa6WW/Kbe6syc=
 			</data>
 		</dict>
 		<key>Modules/TorbaAgreggator.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3lNs6ENvb1zMMHUT8XcaZB+uuK+TeiA3Vp6nixM9qu4=
+			E7P91aDd80q7+rUQoKICg2ryKz+UnWeeV7sBz+KbyNs=
 			</data>
 		</dict>
 		<key>Modules/TorbaAgreggator.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -144,7 +144,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ggB1XFneU0bNzySxJjqfNb8o3jlQoECd1T4RFiSgdSY=
+			CObkfkDLQrBJ/EdzZQh5iuuJM4Jhcw6RDIqFxX/g448=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

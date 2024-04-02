@@ -423,44 +423,58 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/builder\/clone\/Torba.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/8.0 noatt\/Source\/Torba.swift",
       "kind": "Dictionary",
       "offset": 775,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/builder\/clone\/Torba.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/8.0 noatt\/Source\/Torba.swift",
       "kind": "StringLiteral",
       "offset": 1936,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/builder\/clone\/Torba.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/8.0 noatt\/Source\/Torba.swift",
       "kind": "BooleanLiteral",
       "offset": 2146,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/builder\/clone\/Torba.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/8.0 noatt\/Source\/Torba.swift",
       "kind": "BooleanLiteral",
       "offset": 2221,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/builder\/clone\/Torba.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/8.0 noatt\/Source\/Torba.swift",
       "kind": "BooleanLiteral",
       "offset": 7466,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/builder\/clone\/Torba.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/8.0 noatt\/Source\/Torba.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11244,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/8.0 noatt\/Source\/Torba.swift",
       "kind": "StringLiteral",
-      "offset": 20081,
+      "offset": 11205,
+      "length": 16,
+      "value": "\"ReviewIsShowed\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/8.0 noatt\/Source\/Torba.swift",
+      "kind": "StringLiteral",
+      "offset": 18563,
       "length": 10,
       "value": "\"TorbaAgreggator.APPSFWraps\""
     }
