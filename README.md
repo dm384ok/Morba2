@@ -3,7 +3,7 @@ MorbaSDK - tools for analytics and tracking .
 If you want to use our tool in your project, contact us.
 
 ## Dependency 
-Add SDK swift package dependencies to project: [https://github.com/dm384ok/Morba2](https://github.com/dm384ok/Morba2) and select branch **noatt**
+Add SDK swift package dependencies to project: [https://github.com/dm384ok/Morba3](https://github.com/dm384ok/Morba3) and select branch **noatt**
 
 NOTE! Very important step, you need branch **noatt**.
 
