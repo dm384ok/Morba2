@@ -17,7 +17,7 @@ let package = Package(
 
     dependencies: [
         .package(
-            url: "https://github.com/AppsFlyerSDK/AppsFlyerFramework-Static.git",  branch: "main"),
+            url: "https://github.com/AppsFlyerSDK/AppsFlyerFramework.git",  exact: "6.13.2"),
         .package(
             url: "https://github.com/facebook/facebook-ios-sdk.git", branch: "main"),
         .package(
