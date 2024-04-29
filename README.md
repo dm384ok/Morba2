@@ -3,7 +3,7 @@ MorbaSDK - tools for analytics and tracking .
 If you want to use our tool in your project, contact us.
 
 ## Dependency 
-Add SDK swift package dependencies to project: [https://github.com/dm384ok/Morba2](https://github.com/dm384ok/Morba2)
+Add SDK swift package dependencies to project: [https://github.com/dm384ok/Morba3](https://github.com/dm384ok/Morba3)
 
 ## Info.plist setup
 After dependency is continue processing, go to INFO tab, and setup some necessary fields:
@@ -37,7 +37,6 @@ This is Extremely important for the operation of advertising blocks!
 ## Finish
 
 *Target project is ready , Build test and publish project in original way.*
-
 
 
 
